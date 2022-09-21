@@ -126,7 +126,7 @@ body {
   position: absolute;
   width: 110px;
   top: -50px;
-  left: 75.5%;
+  /*left: 75.5%;*/
   /* transform: scale(0.1); */
 }
 
@@ -134,6 +134,10 @@ body {
   display: inline-block;
   position: absolute;
 }
+
+ audio{
+         display: none;
+     }
 
 .baloons img:nth-child(even) {
   left: -10%;

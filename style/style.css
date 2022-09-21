@@ -118,15 +118,15 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 90%;
+  max-width: 70%;
   height: auto;
 }
 
 .six .hat {
   position: absolute;
-  width: 100px;
-  top: -60px;
-  left: 49.5%;
+  width: 200px;
+  top: -70px;
+  left: 45.5%;
   /* transform: scale(0.1); */
 }
 

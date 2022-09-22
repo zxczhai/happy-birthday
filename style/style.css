@@ -125,7 +125,7 @@ body {
 .six .hat {
   position: absolute;
   width: 110px;
-  top: -50px;
+  top: -70px;
   /*left: 75.5%;*/
   /* transform: scale(0.1); */
 }
@@ -135,9 +135,6 @@ body {
   position: absolute;
 }
 
- audio{
-         display: none;
-     }
 
 .baloons img:nth-child(even) {
   left: -10%;
